@@ -1,0 +1,18 @@
+{
+    "name": "Telegram Support",
+    "token": "12345678:ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "chat_id": -1000000000000,
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "pass",
+        "name": "dbname"
+    },
+    "email": {
+        "smtp": "smtp.example.com",
+        "imap": "imap.example.com",
+        "username": "admin@example.com",
+        "password": "pass"
+    }
+}
